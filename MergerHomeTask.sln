@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29806.167
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MergerHomeTask", "MergerHomeTask\MergerHomeTask.csproj", "{492EF110-1496-4282-B70E-5B8B1F1335F0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{492EF110-1496-4282-B70E-5B8B1F1335F0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{492EF110-1496-4282-B70E-5B8B1F1335F0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{492EF110-1496-4282-B70E-5B8B1F1335F0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{492EF110-1496-4282-B70E-5B8B1F1335F0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8F61AF43-8C99-4675-BF3E-B4C117E7B74E}
+	EndGlobalSection
+EndGlobal
